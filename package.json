@@ -1,11 +1,16 @@
 {
+<<<<<<< HEAD
   "name": "hotstar",
+=======
+  "name": "todoappwithreact",
+>>>>>>> bb2204e7c9611643b37dc4033ab6e931ef2566c7
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+<<<<<<< HEAD
     "bootstrap": "^4.5.3",
     "faker": "^5.1.0",
     "jquery": "^3.5.1",
@@ -15,6 +20,11 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.4",
     "uuid": "^8.3.1"
+=======
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "3.4.3"
+>>>>>>> bb2204e7c9611643b37dc4033ab6e931ef2566c7
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,8 +46,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.1.6"
+=======
+>>>>>>> bb2204e7c9611643b37dc4033ab6e931ef2566c7
   }
 }
